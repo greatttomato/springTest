@@ -52,6 +52,7 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<!-- jstl 라이브러리 -->
 		<dependency>
 		    <groupId>javax.servlet.jsp.jstl</groupId>
 		    <artifactId>javax.servlet.jsp.jstl-api</artifactId>

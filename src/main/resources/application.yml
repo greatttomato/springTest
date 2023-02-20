@@ -10,7 +10,7 @@ server:
 spring:
   mvc:
     view:
-      prefix: /WEB-INF/webtest
+      prefix: /WEB-INF/webtest/
       suffix: .jsp
       
 # DataBase
